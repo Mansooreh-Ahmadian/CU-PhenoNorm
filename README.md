@@ -1,1 +1,1 @@
-# Semi-supervised-Phenotyping-of-Tissue-Imaging-Data
+# Semi-supervised Phenotyping of  Multiplex Imaging Data
